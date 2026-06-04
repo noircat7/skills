@@ -1,0 +1,4 @@
+interface:
+  display_name: "炒股研究"
+  short_description: "Stock research, trade planning, and risk checks"
+  default_prompt: "使用 $stock-research 分析一只股票，给出研究框架、关键风险和交易计划草案。"
