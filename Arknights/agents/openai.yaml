@@ -1,0 +1,4 @@
+interface:
+  display_name: "明日方舟资料查询"
+  short_description: "明日方舟干员资料、强度攻略、关卡作业与养成来源路由"
+  default_prompt: "Use $arknights-research 查询某位明日方舟干员的资料、培养建议和资料来源。"
